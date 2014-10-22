@@ -1,0 +1,16 @@
+I need you to scraps this database of pediatric dentists:
+
+http://www.aapd.org/finddentist/search/?Zip=&Miles=&Advanced=1
+
+There are 9,694 and I need the following columns:
+
+Business Name
+Address
+City
+State
+Zip code (ensure zip codes that being with 0 still show up in excel sheet)
+Phone Number
+Fax Number
+Website
+
+I need this done by Saturday and also need strong attention to detail. Please write the word "Tuesday" at the end of your e-mail so I know you read the project all the way to the end. Thanks. 
